@@ -1,4 +1,4 @@
-package com.codingkiddo.api.streams;
+package com.codingkiddo.api.util.streams;
 
 import java.io.Closeable;
 import java.io.IOException;

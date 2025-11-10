@@ -1,4 +1,4 @@
-package com.codingkiddo.api.streams;
+package com.codingkiddo.api.util.streams;
 
 import com.codingkiddo.api.streams.internal.Parameters;
 import com.codingkiddo.api.streams.iterator.LazyIterator;
