@@ -1,4 +1,4 @@
-package com.codingkiddo.api.streams.function;
+package com.codingkiddo.api.util.streams.function;
 
 import org.jetbrains.annotations.NotNull;
 

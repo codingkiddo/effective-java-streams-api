@@ -1,4 +1,4 @@
-package com.codingkiddo.api.streams;
+package com.codingkiddo.api.util.streams;
 
 public class IntPair<T> {
 
