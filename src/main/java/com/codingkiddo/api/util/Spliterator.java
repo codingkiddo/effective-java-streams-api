@@ -35,5 +35,10 @@ public interface Spliterator<T> {
 		throw new IllegalStateException();
 	}
 	
-	
+	public interface OfPrimitive<T, T_CONSUMEER, 
+									T_SPLITT extends Spliterator.OfPrimitive<T, T_CONSUMEER, T_SPLITT>> 
+			extends Spliterator<T> {
+		
+		
+	}
 }
